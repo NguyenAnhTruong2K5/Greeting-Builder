@@ -1,3 +1,3 @@
 # Greeting-Builder
 
-# https://github.com/NguyenAnhTruong2K5/Greeting-Builder
+# https://roadmap.sh/projects/js-greeting-builder
